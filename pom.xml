@@ -63,7 +63,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>jenkis-demo</finalName>
+		<finalName>jenkins-demo</finalName>
 	</build>
 
 </project>
